@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password123",
+        "address": "123 Maple Street, Springfield",
+        "phone": "+1-555-1234"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "password": "securepass456",
+        "address": "456 Oak Avenue, Metropolis",
+        "phone": "+1-555-5678"
+    },
+    {
+        "id": 3,
+        "name": "Carol Lee",
+        "email": "carol.lee@example.com",
+        "password": "mysecret789",
+        "address": "789 Pine Road, Gotham",
+        "phone": "+1-555-9012"
+    },
+    {
+        "id": 4,
+        "name": "a",
+        "email": "a",
+        "password": "a",
+        "address": "a",
+        "phone": "a"
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "email": "user@example.com",
+        "password": "securepassword123",
+        "address": "123 Main St",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 6,
+        "name": "John Doe",
+        "email": "user@example.com",
+        "password": "securepassword",
+        "address": "123 Main St",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 7,
+        "name": "Talisson",
+        "email": "abc@gmail.com",
+        "password": "123123",
+        "address": "abc",
+        "phone": "123"
+    }
+]
