@@ -2,6 +2,10 @@
 
 This is a simple user management service built with Node.js, TypeScript, and the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/@TalissonFV/mcp-test">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@TalissonFV/mcp-test/badge" alt="User Management Server MCP server" />
+</a>
+
 ## Prerequisites
 
 - Node.js
